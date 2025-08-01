@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Fahad Raza
 
-<!--
-**fahadraza19/fahadraza19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SEO Specialist • Micro-SaaS Builder • Founder of [KeywordProbe.com](https://keywordprobe.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I'm passionate about helping small businesses rank on Google without the fluff.
+
+🚀 Projects:
+- [Free SEO Action Plan Generator](https://keywordprobe.com/free-seo-action-plan) 🌟🌟🌟🌟🌟  
+- [Awesome SEO Action Plan Repo](https://github.com/fahadraza19/awesome-seo-action-plan)  
+- [Keyword Research Services](https://keywordprobe.com/seo-services/keyword-research/)  
+- [Blog Writing Services](https://keywordprobe.com/seo-services/blog-writing/)  
+- [SEO for Travel Agencies](https://keywordprobe.com/blog/seo-keywords-for-travel-agency/)
+
+📫 Connect with me:  
+[LinkedIn](https://www.linkedin.com/in/fahadraza) • [KeywordProbe](https://keywordprobe.com) • [Product Hunt](https://www.producthunt.com/@yourprofile)
+
+🧰 Tech I’m Exploring:  
+GPT + SEO APIs • Strategy Automation • Semantic Optimization • Productized Services
